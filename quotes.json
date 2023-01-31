@@ -1,0 +1,77 @@
+[
+	{
+		"quote": "If you only do what you can do, you will never be more than who you are.",
+		"author": "Master Shifu",
+		"movie": "Kung Fu Panda"
+	},
+	{
+		"quote": "You shall not pass!",
+		"author": "Gandalf",
+		"movie": "Lord of the Rings"
+	},
+	{
+		"quote": "Today is a gift, that's why it's called the present.",
+		"author": "Master Oogway",
+		"movie": "Kung Fu Panda"
+	},
+	{
+		"quote": "May the force be with you.",
+		"author": "Obi-Wan Kenobi",
+		"movie": "Star Wars"
+	},
+	{
+		"quote": "I'm Batman.",
+		"author": "Batman",
+		"movie": "Batman (1989)"
+	},
+	{
+		"quote": "The hardest choices require the strongest wills.",
+		"author": "Thanos",
+		"movie": "Avengers: Infinity War"
+	},
+	{
+		"quote":"Our very strength incites challenge. Challenge incites conflict. And conflict… breeds catastrophe.",
+		"author": "Vision",
+		"movie": "Captian America: Civil War"
+	},
+	{
+		"quote": "It does not do to dwell on dreams and forget to live.",
+		"author": "Dumbledore",
+		"movie": "Harry Potter and the Sorcerer's Stone"
+	},
+	{
+		"quote": "Oh yes, the past can hurt. But you can either run from it, or learn from it.",
+		"author": "Rafiki",
+		"movie": "The Lion King"
+	},
+	{	
+		"quote": "With great power comes great responsibility.",
+		"author": "Uncle Ben",
+		"movie": "Spider-man (2002)"
+	},
+	{	
+		"quote": "Fear me, if you dare!",
+		"author": "Puss",
+		"movie": "Puss in Boots"
+	},
+	{
+		"quote": "Just keep swimming",
+		"author": "Dory",
+		"movie": "Finding Nemo (2003)"
+	},
+	{
+		"quote": "Turn right to go left",
+		"author": "Doc Hudson",
+		"movie": "Cars (2006)"
+	},
+	{
+		"quote": "Do, or do not. There is no “try”.",
+		"author": "Yoda",
+		"movie": "Empire Strikes Back"
+	},
+	{
+		"quote": "NO CAPES!",
+		"author": "Edna Mode",
+		"movie": "The Incredibles"
+	}
+]
