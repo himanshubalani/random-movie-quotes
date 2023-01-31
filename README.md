@@ -17,11 +17,13 @@ npm install express
 ```
 npm init
 ```
-After the setup you should have one directory node_modules and two files package.json & package-lock.json.
-4. install ``cors`` package (it'll be needed to run a local server on http localhost otherwise cors will cause security issues)
+After the setup you should have a folder with one directory node_modules and two files package.json & package-lock.json.
+
+4. install ``cors`` package (it'll be needed to run a local server on http localhost otherwise cors will cause errors)
 ````
 npm install cors
 ````
+5. Finally Download this projects' files into the node application folder.
 
 ## Run 
 1. Open project folder in your terminal and run the following command. This makes a local server with backend code stored in `index.js`.
