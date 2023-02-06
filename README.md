@@ -35,3 +35,9 @@ It'll run on localhost.
 > Alternatively, if you have VSCode, you can also open the project folder and use its terminal
 
 Open `index.html` in your browser to see the homepage and look at quotes.
+
+## Test with Postman
+
+
+https://user-images.githubusercontent.com/85930567/216974825-363d9934-7cf8-44ae-8580-2f54fab7abd1.mp4
+
