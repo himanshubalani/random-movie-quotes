@@ -9,7 +9,7 @@ My first attempt at making a Express.js project. It'll search through quotes and
 ## Run 
 1. Open project folder in your terminal and run the following command. This makes a local server with backend code stored in `index.js`.
 ````
-node index.js
+npm start
 ````
 It'll run on localhost.
 
